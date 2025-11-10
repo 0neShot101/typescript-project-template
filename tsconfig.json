@@ -48,7 +48,6 @@
     "noPropertyAccessFromIndexSignature": false,
 
     // Modules
-    "baseUrl": ".",
     "paths": {
       // add your path aliases here
     },
